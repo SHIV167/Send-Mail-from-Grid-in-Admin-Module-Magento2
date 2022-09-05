@@ -1,0 +1,1 @@
+# Send-Mail-from-Grid-in-Admin-Module-Magento2
